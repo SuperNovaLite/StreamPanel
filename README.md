@@ -1,2 +1,4 @@
 # StreamPanel
-Streamline-Server Game Panel Theme
+Game Panel Theme for Streamline-Servers
+
+Beta Release v0.1.026
